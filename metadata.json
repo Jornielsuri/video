@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini TV - Random Video Chat",
+  "description": "A web application that simulates a random video chat experience like Omegle TV, connecting you with a conversational AI powered by Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

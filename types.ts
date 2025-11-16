@@ -1,0 +1,8 @@
+
+export enum ChatStatus {
+  IDLE = 'IDLE',
+  CONNECTING = 'CONNECTING',
+  CONNECTED = 'CONNECTED',
+  DISCONNECTED = 'DISCONNECTED',
+  ERROR = 'ERROR',
+}
